@@ -15,9 +15,9 @@ author: Hongchao Deng
 
 navbar-links:
   About Me: "aboutme"
-  Social:
-    - LinkedIn: "https://www.linkedin.com/in/hongchao-deng/"
-    - Twitter: "https://twitter.com/hongchaod"
+  # Social:
+  #   - LinkedIn: "https://www.linkedin.com/in/hongchao-deng/"
+  #   - Twitter: "https://twitter.com/hongchaod"
   Github: "https://github.com/hongchaodeng"
 
 # --- Logo --- #
@@ -38,12 +38,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "fengjingchao@gmail.com"
+  github: hongchaodeng
+  twitter: hongchaod
+  linkedin: hongchao-deng
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
