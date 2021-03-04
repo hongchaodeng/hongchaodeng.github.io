@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hongchao Deng (邓洪超). Here are a few facts about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I graduated from Carnegie Mellon University.
+- I am a technical leader at Alibaba Cloud.
+- I contributed to a lot of open source projects and now authoring KubeVela project.
+- I like developing new technologies to solve application infrastructure problems.
+- I am extremely loyal to my family.
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
