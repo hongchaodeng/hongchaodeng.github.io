@@ -1,0 +1,11 @@
+title: Hongchao Deng
+email: hongchao.deng@anyscale.com
+description: Personal blog
+url: "https://hongchaodeng.github.io"
+author:
+  name: Hongchao Deng
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
