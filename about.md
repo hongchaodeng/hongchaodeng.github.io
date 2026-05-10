@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Short bio paragraph here. Edit freely.
+Kubernetes / Ray / AI compute platform.
+Opinions are my own.
