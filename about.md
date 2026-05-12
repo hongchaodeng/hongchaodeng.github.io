@@ -4,5 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Kubernetes / Ray / AI compute platform.
+Software engineer at Anyscale.
+
+PyTorch/ Ray / Kubernetes.
+
 Opinions are my own.
