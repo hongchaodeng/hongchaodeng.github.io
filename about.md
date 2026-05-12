@@ -6,6 +6,4 @@ permalink: /about/
 
 Software engineer at Anyscale.
 
-PyTorch/ Ray / Kubernetes.
-
-Opinions are my own.
+PyTorch / Ray / Kubernetes.
